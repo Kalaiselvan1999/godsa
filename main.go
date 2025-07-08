@@ -1,6 +1,6 @@
 package main
 
-import "example.com/dsa/algorithms"
+import "github.com/Kalaiselvan1999/godsa/algorithms"
 
 
 func main() {
